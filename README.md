@@ -1,4 +1,3 @@
-# Bank-Management-System
 # 🏦 Bank Management System (C++)
 
 A console-based Bank Management System developed using C++, designed to simulate basic banking operations with a focus on core programming concepts and logical problem-solving.
